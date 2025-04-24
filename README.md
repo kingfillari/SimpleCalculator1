@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Calculator
 
 A simple calculator application built using JavaFX. This project provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -36,3 +37,6 @@ Open the terminal/command prompt, navigate to the project directory, and use the
 #### Compile:
 ```bash
 javac --module-path "path_to_your_javafx_sdk\lib" --add-modules javafx.controls Main.java
+=======
+# SimpleCalculator1
+>>>>>>> e3c3f680cc0c8d302355cd9a9dd6cf66276fae35
